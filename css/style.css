@@ -1,0 +1,24 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header img{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    margin: 20px;
+    border-radius: 70px;
+}
+tbody tr{
+    border: 12px;
+    border-color: black;
+       }
+
+span{
+    font-weight: 100;
+    font-size: 20px;
+}       
+
+ .picture img{
+    height:4cm;
+}

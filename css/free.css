@@ -1,0 +1,39 @@
+body{
+    font-family: 'Anuphan', sans-serif;
+}
+
+#first{
+    color: blue;
+    font-size: 35px;
+    font-style: italic;
+      font-family: Verdana;
+      text-align: center;
+      font-weight: bold;
+}
+h3{
+    text-decoration: underline;
+}
+ /**tbody tr{
+    border: 12px;
+    border-color: white;
+    color: white;
+  }
+
+ #second{
+    background-color: white;
+    width: 35px;
+    height:400px;
+    float: center;
+  }**/
+  table{
+    width: 75%;
+    border: 3px solid white;
+    border-collapse: collapse;
+color: white;
+
+  }
+  tr, th, td {
+    padding: 10px;
+    border: 3px solid white;
+    border-collapse: collapse;
+  }
